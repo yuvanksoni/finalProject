@@ -21,10 +21,7 @@ if($_SESSION["login"] == false) {
         <a class="navbar-brand" href="/portal.php">Portal</a>
       </div>
       <ul class="nav navbar-nav">
-        <li><a href="/portal.php">Commands</a></li>
-        <li><a href="/denied.php">Potions</a></li>
-        <li><a href="/denied.php">Creatures</a></li>
-        <li><a href="/denied.php">Potions</a></li>
+         <li><a href="/portal.php">Commands</a></li>
         <li><a href="/denied.php">Clone Notes</a></li>
       </ul>
     </div>
